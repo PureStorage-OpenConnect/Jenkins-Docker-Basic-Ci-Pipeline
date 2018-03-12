@@ -32,7 +32,7 @@ pipeline {
         stage('git checkout') {     
             steps {
                 timeout(time: 5, unit: 'SECONDS') {
-                    checkout "https://github.com/PureStorage-OpenConnect/Jenkins-Docker-Basic-Ci-Pipeline"
+                    checkout scm
                 }
             }
         }
