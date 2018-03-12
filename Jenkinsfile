@@ -24,10 +24,6 @@ pipeline {
         SCM_PROJECT    = "Jenkins-Docker-Basic-Ci-Pipeline"
     }
     
-    parameters {
-        booleanParam(defaultValue: true, description: '', name: 'HAPPY_PATH')
-    }
-    
     stages {
         stage('git checkout') {     
             steps {
