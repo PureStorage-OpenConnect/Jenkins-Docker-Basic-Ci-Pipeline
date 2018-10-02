@@ -6,7 +6,9 @@
 
 ![provisioning](https://user-images.githubusercontent.com/15145995/46339832-b22d3280-c62b-11e8-86a2-d87ea3a6af3e.PNG)
 
-When deploying to a test server a couple of times a day, which is the best option ?
+<p align="center">
+  <b>When deploying to a test environment a couple of times a day, which is the best option ?</b><br>
+</p>
 
 
 
