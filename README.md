@@ -24,11 +24,6 @@
 
 ![pipeline as code](https://user-images.githubusercontent.com/15145995/46341431-f6bacd00-c62f-11e8-945f-4a45f269e785.PNG)
 
-.
-.
-.
-.
-
 * Pipeline as code is reusable
 
 * Pipeline as code is extensible
