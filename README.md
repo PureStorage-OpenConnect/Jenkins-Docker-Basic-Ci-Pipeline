@@ -10,6 +10,11 @@
   <b>When deploying to a test environment a couple of times a day, which is the best option ?</b><br>
 </p>
 
+## Patterns For Using Containers
+
+# Agents 
+
+
 
 
 
