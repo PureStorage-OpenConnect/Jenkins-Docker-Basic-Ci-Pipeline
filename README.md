@@ -1,6 +1,3 @@
-This repository contains a SQL Server data tools project and a Jenkinsfile written using the opinionated declarative syntax for a build pipeline that:
+# Continuous Integration Pipeline 101
 
-- Checks the project out from SCM
-- Spins up a container to deploy the DacPac to
-- Deploys the DacPac to the container
-- Tears down the container
+![ci 101](https://user-images.githubusercontent.com/15145995/46338698-c885bf00-c628-11e8-988d-c1cb23ae86ac.PNG)
