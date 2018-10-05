@@ -34,6 +34,11 @@
 
 * Pipeline as code can be kept under source code control with the actual application code itself
 
+# Basic Declarative Pipeline Structure
+
+# The Pipeline That This Repository Illustrates 
+
+
 # The Pipeline That This Repository Illustrates 
 
 ![repo](https://user-images.githubusercontent.com/15145995/46341664-b3149300-c630-11e8-925e-e52e36511542.PNG)
