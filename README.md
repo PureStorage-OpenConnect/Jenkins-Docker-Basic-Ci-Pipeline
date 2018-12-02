@@ -24,7 +24,7 @@
 
 ![sidecars](https://user-images.githubusercontent.com/15145995/46341216-7f853900-c62f-11e8-96b9-703a0db1efb6.PNG)
 
-# Pipeline As Code: Why You Should I Use This ?
+# Pipeline As Code: Why Should I Use This ?
 
 ![pipeline as code](https://user-images.githubusercontent.com/15145995/46341431-f6bacd00-c62f-11e8-945f-4a45f269e785.PNG)
 
