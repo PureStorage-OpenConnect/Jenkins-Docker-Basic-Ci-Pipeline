@@ -1,10 +1,10 @@
-@snap[north-west]
+@snap[north-west span-100 headline]
 # Continuous Integration Pipeline 101
 @snapend
 
 ![ci 101](https://user-images.githubusercontent.com/15145995/46338961-80b36780-c629-11e8-9272-fd0a74ee7b06.PNG)
 ---
-@snap[north-west]
+@snap[north-west span-100 headline]
 # Standing Up Resources
 @snapend
 
@@ -14,7 +14,7 @@
   <b>When deploying to a test environment a couple of times a day, which is the best option ?</b><br>
 </p>
 ---
-@snap[north-west]
+@snap[north-west span-100 headline]
 # Docker and Jenkins
 @snapend
 
@@ -22,19 +22,19 @@
 ---
 # Patterns For Using Containers
 ---
-@snap[north-west]
+@snap[north-west span-100 headline]
 ## Agents
 @snapend
 
 ![agents](https://user-images.githubusercontent.com/15145995/46341044-1e5d6580-c62f-11e8-801c-6a82a2e9c4ac.PNG)
 ---
-@snap[north-west]
+@snap[north-west span-100 headline]
 ## Side Cars
 @snapend
 
 ![sidecars](https://user-images.githubusercontent.com/15145995/46341216-7f853900-c62f-11e8-96b9-703a0db1efb6.PNG)
 ---
-@snap[north-west]
+@snap[north-west span-100 headline]
 # Pipeline As Code: Why Should I Use This ?
 @snapend
 
@@ -46,19 +46,19 @@
 
 * Pipeline as code can be kept under source code control with the actual application code itself
 ---
-@snap[north-west]
+@snap[north-west span-100 headline]
 # Basic Declarative Pipeline Structure
 @snapend
 
 ![skeleton](https://user-images.githubusercontent.com/15145995/46523502-cbc5b880-c87d-11e8-9884-992715a4308b.PNG)
 ---
-@snap[north-west]
+@snap[north-west span-100 headline]
 # The Pipeline That This Repository Illustrates 
 @snapend
 
 ![repo](https://user-images.githubusercontent.com/15145995/46341664-b3149300-c630-11e8-925e-e52e36511542.PNG)
 ---
-@snap[north-west]
+@snap[north-west span-100 headline]
 # Points Of Interest From This Repo
 @snapend
 
