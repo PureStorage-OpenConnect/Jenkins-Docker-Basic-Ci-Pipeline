@@ -47,16 +47,13 @@
 
 * Pipeline as code can be kept under source code control with the actual application code itself
 ---
-@snap[north-west span-100 headline]
 # Pipeline Structure
-@snapend
-
+---
 ![skeleton](https://user-images.githubusercontent.com/15145995/46523502-cbc5b880-c87d-11e8-9884-992715a4308b.PNG)
 ---
 @snap[north-west span-100 headline]
 # This Example 
 @snapend
-
 ![repo](https://user-images.githubusercontent.com/15145995/46341664-b3149300-c630-11e8-925e-e52e36511542.PNG)
 ---
 @snap[north-west span-100 headline]
