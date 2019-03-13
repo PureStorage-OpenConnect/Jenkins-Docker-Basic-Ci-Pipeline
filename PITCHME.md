@@ -1,13 +1,11 @@
 @snap[north-west span-100 headline]
-# Continuous Integration 101
+# CI Pipeline 101
 @snapend
 
 ![ci 101](https://user-images.githubusercontent.com/15145995/46338961-80b36780-c629-11e8-9272-fd0a74ee7b06.PNG)
 ---
-@snap[north-west span-100 headline]
 # Standing Up Resources
-@snapend
-
+---
 ![provisioning](https://user-images.githubusercontent.com/15145995/46339832-b22d3280-c62b-11e8-86a2-d87ea3a6af3e.PNG)
 
 <p align="center">
