@@ -12,10 +12,8 @@
   <b>When deploying to a test environment a couple of times a day, which is the best option ?</b><br>
 </p>
 ---
-@snap[north-west span-100 headline]
 # Docker and Jenkins
-@snapend
-
+---
 ![docker and jenkins](https://user-images.githubusercontent.com/15145995/46342194-0fc47d80-c632-11e8-9cb4-261b0c88de0b.PNG)
 ---
 # Patterns For Using Containers
