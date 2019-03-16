@@ -2,7 +2,7 @@
 # CI Pipeline 101
 @snapend
 
-![ci 101](https://user-images.githubusercontent.com/15145995/46338961-80b36780-c629-11e8-9272-fd0a74ee7b06.PNG)
+![ci 101](https://user-images.githubusercontent.com/15145995/54473469-05590300-47d0-11e9-8a30-c088668d165c.png)
 ---
 # Standing Up Resources
 ---
