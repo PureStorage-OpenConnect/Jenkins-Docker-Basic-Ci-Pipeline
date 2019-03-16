@@ -62,4 +62,5 @@
 ---
 ![Up next: working in teams](https://gitpitch.com/PureStorage-OpenConnect/Jenkins-Docker-Multi-Branch-Ci-Pipeline)
 ---
-[Up next: Working in teams](https://github.com/PureStorage-OpenConnect/Jenkins-Docker-Multi-Branch-Ci-Pipeline)
+# Up Next !
+https://gitpitch.com/PureStorage-OpenConnect/Jenkins-Docker-Multi-Branch-Ci-Pipeline
