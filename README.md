@@ -1,6 +1,6 @@
 # Continuous Integration Pipeline 101
 
-![image](https://user-images.githubusercontent.com/15145995/54473469-05590300-47d0-11e9-8a30-c088668d165c.png)
+![image](https://user-images.githubusercontent.com/15145995/54473537-f6bf1b80-47d0-11e9-9469-7e64a01ccbd6.png)
 
 # Standing Up Resources
 
