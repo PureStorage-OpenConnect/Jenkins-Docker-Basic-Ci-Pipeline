@@ -36,7 +36,7 @@
 
 # Basic Declarative Pipeline Structure
 
-![skeleton](https://user-images.githubusercontent.com/15145995/46523502-cbc5b880-c87d-11e8-9884-992715a4308b.PNG)
+![skeleton](https://user-images.githubusercontent.com/15145995/54529685-894def00-4978-11e9-86bb-708bf101f816.png)
 
 # The Pipeline That This Repository Illustrates 
 
