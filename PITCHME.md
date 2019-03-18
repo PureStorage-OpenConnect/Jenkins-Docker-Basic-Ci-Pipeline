@@ -52,7 +52,7 @@
 @snap[north-west span-100 headline]
 # This Example 
 @snapend
-![repo](https://user-images.githubusercontent.com/15145995/46341664-b3149300-c630-11e8-925e-e52e36511542.PNG)
+![repo](https://user-images.githubusercontent.com/15145995/54528394-c57f5080-4974-11e9-87fb-059191f60cc7.png)
 ---
 @snap[north-west span-100 headline]
 # Points Of Interest
