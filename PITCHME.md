@@ -1,6 +1,4 @@
-@snap[north-west span-100 headline]
 # Containers Analogy
-@snapend
 ![image](https://user-images.githubusercontent.com/15145995/54530843-c9fb3780-497b-11e9-898a-c4843688e3ad.png)
 ---
 @snap[north-west span-100 headline]
