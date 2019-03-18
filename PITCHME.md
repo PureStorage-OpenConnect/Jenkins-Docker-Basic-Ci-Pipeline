@@ -47,7 +47,8 @@
 ---
 # Pipeline Structure
 ---
-![skeleton](https://user-images.githubusercontent.com/15145995/54529977-5bb57580-4979-11e9-97bf-c2820eb33c30.png)
+![skeleton](https://user-images.githubusercontent.com/15145995/54530142-e0a08f00-4979-11e9-8eb7-0877653974bf.png)
+
 ---
 @snap[north-west span-100 headline]
 # This Example 
