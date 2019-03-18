@@ -1,3 +1,7 @@
+# Containers: A Good Analogy
+
+![image](https://user-images.githubusercontent.com/15145995/54530843-c9fb3780-497b-11e9-898a-c4843688e3ad.png)
+
 # Continuous Integration Pipeline 101
 
 ![image](https://user-images.githubusercontent.com/15145995/54528274-66214080-4974-11e9-993b-88328b6d01d6.png)
