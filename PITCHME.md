@@ -63,5 +63,3 @@
 @snapend
 
 ![points of interest](https://user-images.githubusercontent.com/15145995/46342042-b2303100-c631-11e8-97e2-0561f6f08daf.PNG)
----
-[Up next: working in teams](https://gitpitch.com/PureStorage-OpenConnect/Jenkins-Do
